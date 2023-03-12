@@ -70,7 +70,7 @@ b) Evite usar funções prontas, como, por exemplo, reverse;
 
 <b>Respostas</b>:
 1. 91
-2. [Código Fibonacci - Executado a partir da classe Main](https://github.com/wesleyvelloso/teste-target/tree/master/src)
+2. [Código Fibonacci - Executado a partir da classe Main]()
 3. a) 9
    b) 128
    c) 49
@@ -79,4 +79,4 @@ b) Evite usar funções prontas, como, por exemplo, reverse;
    f) 20
 
 4. Ambos estarão à mesma distância de Ribeirão Preto, já que é considerado o momento em que se cruzam, ou seja, estão no mesmo ponto da estrada.
-5. [Código Inversão String - Executado a partir da classe Main](https://github.com/wesleyvelloso/teste-target/tree/master/src)
+5. [Código Inversão String - Executado a partir da classe Main]()
