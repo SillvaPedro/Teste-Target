@@ -13,7 +13,7 @@ Obs.: Códigos feitos e executados pelo Visual Studio Code
    c) 49
    d) 100
    e) 13
-   f) 20
+   f) 21
 
 
    4. Ambos estarão à mesma distância de Ribeirão Preto, já que é considerado o momento em que se cruzam, ou seja, estão no mesmo ponto da estrada.
