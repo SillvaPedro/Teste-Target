@@ -6,7 +6,7 @@ Obs.: Códigos feitos e executados pelo Visual Studio Code
 
    1. 91
 
-   2. Código Fibonacci: (https://github.com/SillvaPedro/Teste-Target/blob/main/target.py)
+   2. [Código Fibonacci] (https://github.com/SillvaPedro/Teste-Target/blob/main/target.py)
 
    3. a) 9
    b) 128
@@ -22,4 +22,4 @@ Obs.: Códigos feitos e executados pelo Visual Studio Code
       Distância do carro até Ribeirão Preto = Distância até o ponto X = 50km
       Portanto, quando se encontrarem, o caminhão estará mais próximo de Ribeirão Preto do que o carro.
 
-   5. Código Inversão String:(https://github.com/SillvaPedro/Teste-Target/blob/main/string.java)
+   5. [Código Inversão String] (https://github.com/SillvaPedro/Teste-Target/blob/main/string.java)
