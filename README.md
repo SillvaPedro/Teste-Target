@@ -70,7 +70,7 @@ b) Evite usar funções prontas, como, por exemplo, reverse;
 
 <b>Respostas</b>:
 1. 91
-2. [Código Fibonacci - Executado a partir da classe Main](https://github.com/SillvaPedro/Teste-Target/blob/main/target.py)
+2. [Código Fibonacci](https://github.com/SillvaPedro/Teste-Target/blob/main/target.py)
 3. a) 9
    b) 128
    c) 49
