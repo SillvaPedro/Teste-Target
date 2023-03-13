@@ -22,4 +22,4 @@ Obs.: Códigos feitos e executados pelo Visual Studio Code
       Distância do carro até Ribeirão Preto = Distância até o ponto X = 50km
       Portanto, quando se encontrarem, o caminhão estará mais próximo de Ribeirão Preto do que o carro.
 
-   5. [Código Inversão String - Executado a partir da classe Main]()
+   5. [Código Inversão String - Executado a partir da classe Main](https://github.com/SillvaPedro/Teste-Target/blob/main/string.java)
